@@ -32,7 +32,7 @@
 					<span>身高</span>:179cm<br>
                     <span>爱好</span>:听歌 打球 打游戏<br>
                     <span>性格</span> :开朗<br>
-                    <span>专业</span>:计算机软件技术
+                    <span>专业</span>:计算机
                 </p>
             </div>
             <div id="main_right">
